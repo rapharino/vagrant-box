@@ -1,7 +1,6 @@
 # vagrant-box
 
 ``` shell
-vagrant-box 
 mkdir dev
 cd dev
 git clone https://github.com/rapharino/vagrant-box.git
